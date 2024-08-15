@@ -1,0 +1,10 @@
+<div class="col">
+    <div class="card">
+        <img src="{{ officer.image }}" alt="{{ officer.name }}" class="card-img-top" />
+        <div class="card-body">
+            <h5 class="card-title">{{ officer.name }}</h5>
+            <p class="card-text">{{ officer.title }}</p>
+            <a href="mailto:{{ officer.email }}" class="btn btn-primary">Email {{ officer.name.split()[0] }}</a>
+        </div>
+    </div>
+</div>
