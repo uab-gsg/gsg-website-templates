@@ -2,64 +2,68 @@ officers:
   - name: Teresa Beamon
     title: President
     email: tcbeamon@uab.edu
-    image: images/2024-2025-GSG-Exec-Committee-Headshots/teresa_beamon.png
-  - name: Jillur Rahim
-    title: Vice-President
-    email: jillur@uab.edu
-    image: images/2024-2025-GSG-Exec-Committee-Headshots/jillur_rahim.png
+    image: https://castlewoodassistedliving.com/wp-content/uploads/2021/01/image-coming-soon-placeholder.png
+  - name: Chibuzo Nwokafor
+    title: Vice President
+    email: nwokafor@uab.edu
+    image: https://castlewoodassistedliving.com/wp-content/uploads/2021/01/image-coming-soon-placeholder.png
   - name: Isis Thomas
     title: Treasurer
     email: isist@uab.edu
-    image: images/2024-2025-GSG-Exec-Committee-Headshots/isis_thomas.png
-  - name: Briana Machen
-    title: Secretary
-    email: bmachen@uab.edu
-    image: images/2024-2025-GSG-Exec-Committee-Headshots/briana_machen.jpg
-  - name: Logan Marler
+    image: https://castlewoodassistedliving.com/wp-content/uploads/2021/01/image-coming-soon-placeholder.png
+  - name: Nunaya Polycarp
     title: Chief of Staff
-    email: lrmarler@uab.edu
-    image: images/2024-2025-GSG-Exec-Committee-Headshots/logan_marler.png
+    email: npolycar@uab.edu
+    image: https://castlewoodassistedliving.com/wp-content/uploads/2021/01/image-coming-soon-placeholder.png
+  - name: Emmanuel Dagunduro
+    title: Secretary
+    email: etdagund@uab.edu
+    image: https://castlewoodassistedliving.com/wp-content/uploads/2021/01/image-coming-soon-placeholder.png
+  - name: Zoe’ Graves
+    title: Social Activities Chair
+    email: zograves@uab.edu
+    image: https://castlewoodassistedliving.com/wp-content/uploads/2021/01/image-coming-soon-placeholder.png
+  - name: Lauren Hastings
+    title: Communications & Marketing Chair
+    email: lrhastin@uab.edu
+    image: https://castlewoodassistedliving.com/wp-content/uploads/2021/01/image-coming-soon-placeholder.png
+  - name: Jewel Hairston
+    title: Community Service Chair
+    email: jshairst@uab.edu
+    image: https://castlewoodassistedliving.com/wp-content/uploads/2021/01/image-coming-soon-placeholder.png
+  - name: Kristina Johnson
+    title: Professional Development Chair
+    email: kristi19@uab.edu
+    image: https://castlewoodassistedliving.com/wp-content/uploads/2021/01/image-coming-soon-placeholder.png
+  - name: Sheridan George
+    title: Professional Development Chair
+    email: sspivey@uab.edu
+    image: https://castlewoodassistedliving.com/wp-content/uploads/2021/01/image-coming-soon-placeholder.png
+  - name: Shaurita D. Hutchins
+    title: Webmaster
+    email: shutchins@uab.edu
+    image: https://castlewoodassistedliving.com/wp-content/uploads/2021/01/image-coming-soon-placeholder.png
+  - name: Ramya Sree P
+    title: Parliamentarian
+    email: rperiche@uab.edu
+    image: https://castlewoodassistedliving.com/wp-content/uploads/2021/01/image-coming-soon-placeholder.png
+  - name: Jessie O’Neill
+    title: Health & Wellness Chair
+    email: jloneill@uab.edu
+    image: https://castlewoodassistedliving.com/wp-content/uploads/2021/01/image-coming-soon-placeholder.png
+  - name: Teneshia Portis
+    title: Outreach & Involvement Chair
+    email: tportis@uab.edu
+    image: https://castlewoodassistedliving.com/wp-content/uploads/2021/01/image-coming-soon-placeholder.png
   - name: Azait Imtiaz
     title: International Student Liaison
     email: aimtiaz@uab.edu
-    image: images/2024-2025-GSG-Exec-Committee-Headshots/azait_imtiaz.jpeg
-  - name: Brady Laboret
-    title: Health and Wellness Chair
-    email: blaboret@uab.edu
-    image: images/2024-2025-GSG-Exec-Committee-Headshots/brady_laboret.jpg
-  - name: Chibuzo Nwokafor
-    title: Outreach and Involvement Chair
-    email: nwokafor@uab.edu
-    image: images/2024-2025-GSG-Exec-Committee-Headshots/chibuzo_nwokafor.jpeg
-  - name: Damion White
-    title: Professional Development and Awards Chair
-    email: dwhite1@uab.edu
-    image: images/2024-2025-GSG-Exec-Committee-Headshots/damion_white.jpeg
-  - name: Emmanuel Addai
-    title: Parliamentarian
-    email: eaddai@uab.edu
-    image: images/2024-2025-GSG-Exec-Committee-Headshots/emmanuel_addai.png
-  - name: Gavin Newberry
-    title: Student Advocacy Chair
-    email: gcnewber@uab.edu
-    image: images/2024-2025-GSG-Exec-Committee-Headshots/gavin_newberry.jpg
-  - name: Jessie O'Neill
-    title: Social Activities Chair
-    email: jloneill@uab.edu
-    image: images/2024-2025-GSG-Exec-Committee-Headshots/jessica_oneill.jpeg
-  - name: Lauren Hastings
-    title: Communications and Marketing Chair
-    email: lrhastin@uab.edu
-    image: images/2024-2025-GSG-Exec-Committee-Headshots/lauren_hastings.jpg
-  - name: Natalie Black
-    title: Community Service Chair
-    email: natblack@uab.edu
-    image: images/2024-2025-GSG-Exec-Committee-Headshots/natalie_black.jpeg
-  - name: Shahariar Rabby
-    title: Webmaster
-    email: arabby@uab.edu
-    image: images/2024-2025-GSG-Exec-Committee-Headshots/shahariar_rabby.png
-  - name: Jennifer Griffin
+    image: https://castlewoodassistedliving.com/wp-content/uploads/2021/01/image-coming-soon-placeholder.png
+  - name: Mohammed Saleem
+    title: Awards Officer
+    email: saleem@uab.edu
+    image: https://castlewoodassistedliving.com/wp-content/uploads/2021/01/image-coming-soon-placeholder.png
+  - name: Mary Wallace
     title: Advisor
-    email: jgriffin@uab.edu
-    image: images/2024-2025-GSG-Exec-Committee-Headshots/jennifer_griffin.jpg
+    email: marywall@uab.edu
+    image: https://castlewoodassistedliving.com/wp-content/uploads/2021/01/image-coming-soon-placeholder.png
